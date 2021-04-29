@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 PERSON A: Hi, Today I am learning how to use Git for all my future projects that need version Control
 
 PERSON C: Wow, cool! I am person C and also joining this project
+=======
+PERSON A: Hi, Today I am learning how to use Git for all my future projects that need version Control
+>>>>>>> 45c3b0c861a768abd919accc6d6ca81cde342ec2
